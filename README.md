@@ -4,7 +4,7 @@ Node : v15.14.0
 
 npm  : 7.9.0
 
-Lien de la Demo : https://remimobilethinking.web.app/#/management/teams
+Lien de la Demo : 
 
 ### Informations
 
