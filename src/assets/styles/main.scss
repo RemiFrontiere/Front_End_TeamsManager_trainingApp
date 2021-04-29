@@ -1,0 +1,23 @@
+@import "./fonts.scss";
+
+body,
+html {
+  overflow: hidden !important;
+  font-family: 'OpenSans-Regular';
+}
+
+.v-application{
+  font-family: 'OpenSans-Light' !important;
+}
+
+.dialogConfirm {
+  color: #2c405a;
+
+  .dg-btn.dg-btn--cancel{
+    background-color: #2c405a;
+  }
+  .dg-btn.dg-btn--ok{
+    border-color: #2c405a;
+    color: #2c405a;
+  }
+}
