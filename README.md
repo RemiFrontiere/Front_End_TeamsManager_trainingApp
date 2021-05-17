@@ -4,6 +4,7 @@ Node : v15.14.0
 
 npm  : 7.9.0
 
+Instruction de l'exercice sur la branche https://github.com/RemiFrontiere/Front_End_TeamsManager_trainingApp/tree/master
 Lien de la Demo : https://teamsmanager-trainingapp.web.app/#/management/teams
 
 ### Informations
